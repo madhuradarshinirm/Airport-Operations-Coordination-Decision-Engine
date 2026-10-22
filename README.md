@@ -132,13 +132,5 @@ The application is intended to support operational visibility and future decisio
 - Improve loading, error, and empty states.
 - Add automated testing and responsive-layout improvements.
 
-## 👩‍💻 Internship Details
-
-- **Program:** Infosys Internship 7.0
-- **Project:** Airport Operations Coordination Engine
-- **Contribution:** Frontend Dashboard and Common UI
-- **Milestone:** Milestone 1
-
----
 
 Developed as part of Infosys Internship 7.0.
