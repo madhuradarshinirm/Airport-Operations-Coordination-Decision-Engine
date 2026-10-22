@@ -12,6 +12,14 @@ This contribution focuses on developing the common frontend application shell, m
 
 To build a consistent and user-friendly frontend foundation for the Airport Operations Coordination Engine as part of Milestone 1 of Infosys Internship 7.0.
 
+## 📸 Proof of Work
+
+Login page
+![image alt](https://github.com/madhuradarshinirm/Airport-Operations-Coordination-Decision-Engine/blob/8159180385957f46b01cefc30d48485c22b30817/Screenshot%202026-10-22%20141121.png)
+
+Dashboard overview page
+![image alt]()
+
 ## ✨ Features Implemented
 
 - 🔐 **Mock Login:** Login page demonstrating the sign-in flow without backend authentication.
